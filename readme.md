@@ -1,6 +1,6 @@
 # FlixAPI
 
-Api criada para gerenciamento de filmes, atores e avaliações de filmes. Projeto desenvolvido durante o curso Django Master.
+Api REST criada para gerenciamento de filmes, atores e avaliações de filmes. Projeto desenvolvido durante o curso Django Master.
 
 ## Funções
 - CRUD de Atores
